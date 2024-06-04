@@ -1,12 +1,14 @@
+<div align="center">
 ## Hi there 👋
 Hey, I'm Matheus. I'm a programming student, currently focused on Python and the Django framework. 
 
 For now, coding/studying is just a hobby and I don't plan on working with it in the future. I worked for 2 years in the IT department of the Brazilian Navy with hardware, Linux, HTML, and CSS. I graduated in IT from the Federal Institute of Rio (IFRJ).
+### Github Stats
 <div>
   <a href=https://github.com/oi100matheus>
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=oi100matheus&theme=transparent&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oi100matheus&layout=compact&theme=transparent&show_icons=true&hide=css,html" height = "165"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=oi100matheus&theme=transparent&show_icons=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oi100matheus&layout=compact&theme=transparent&show_icons=true&hide=css,html" height = "150"> 
   </a>
 </div>
 
@@ -38,5 +40,6 @@ For now, coding/studying is just a hobby and I don't plan on working with it in 
   </a>
   !-->
 </p>
+</div>
 
 

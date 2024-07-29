@@ -1,6 +1,6 @@
 <div align="center">
 ## Hi there 👋
-Hey, I'm Matheus. I'm a programming student, currently focused on Python and the Django framework. 
+Hey, I'm Matheus. I'm a programming student, currently focused on Python, Java and the Django, Spring framework. 
 
 For now, coding/studying is just a hobby and I don't plan on working with it in the future. I worked for 2 years in the IT department of the Brazilian Navy with hardware, Linux, HTML, and CSS. I graduated in IT from the Federal Institute of Rio (IFRJ).
 ### Github Stats

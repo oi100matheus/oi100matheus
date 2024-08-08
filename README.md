@@ -12,7 +12,7 @@ For now, coding/studying is just a hobby and I don't plan on working with it in 
   </a>
 </div>
 
-- 🔭 I’m currently working on Python and Django
+- 🔭 I’m currently working on JAVA and SPRING
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on my girlfriend ❤
 - 🤔 I’m looking for help with Css
